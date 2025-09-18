@@ -4,3 +4,7 @@ faiss-cpu
 sentence-transformers
 python-dotenv
 reportlab
+streamlit
+google-generativeai
+
+
