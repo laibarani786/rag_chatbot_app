@@ -1,10 +1,10 @@
 streamlit
-openai
+numpy
+pandas
+scikit-learn
 faiss-cpu
 sentence-transformers
-python-dotenv
-reportlab
-streamlit
+transformers
+torch
 google-generativeai
-
-
+wikipedia
